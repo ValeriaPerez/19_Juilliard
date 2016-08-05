@@ -1,0 +1,62 @@
+/* Inserta tu codigo que es común para todas las páginas aqui */
+ul{
+	text-align: center;
+	padding: 20px;
+}
+li{
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+h1{
+	padding-top: 10px;
+}
+.tile{
+	background-image: url("../img/tile2.png");
+	background-position:center top;
+	height: auto;
+	margin:0px;
+}	
+.frase{
+	font-size: 30px;
+}
+.fondozapatitos{
+	background-image: url("../img/shoes_1.jpg");
+	background-position:right top;
+	background-repeat:no-repeat;  
+	width: 100%;
+	height: 500px;
+	margin: 0px;
+}
+footer{
+	background-color: #010338;
+	padding: 10px;
+}
+input{
+	height: 30px;
+	width: 400px;
+	padding: 5px;
+	margin: 10px;	
+}
+.alta {
+	height: 150px;
+	text-align: left padding-top;
+}
+.contactanos{
+	margin-left: 10%;
+}
+.botonenviar{
+	background-color: #010338;
+}
+a{
+	text-decoration: none;
+}
+.buttonclases{
+	background-color: #010338;
+	padding: 12px;
+	width: 200px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;
+}

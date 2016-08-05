@@ -1,0 +1,112 @@
+/* Inserta tu codigo aqui */
+
+.fondo1{
+	background-image: url("../img/dance_1.jpg");
+	background-position:center top;
+	background-repeat:no-repeat;
+	background-size:100%;  
+	max-width: 100%;
+	height: 400px;
+	margin: 0px;
+}
+/* ul{
+	text-align: center;
+	padding: 20px;
+}
+li{
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 30px;
+	padding-right: 30px;
+} */
+h1{
+	padding-top: 10px;
+}
+.studio{
+	font-size: 50px;
+}
+/* .tile{
+	background-image: url("../img/tile2.png");
+	background-position:center top;
+} */
+#instructores{
+	background-image: url("../img/instructor_4.jpg"), url("../img/profesor_9.jpg");
+	background-position: left top, right top;
+	background-repeat: no-repeat;
+	background-size: 50% 100%;
+	height: 300px;
+	margin:0px;
+}
+.mapa{
+	width:550px;
+	height:270px; 
+	position: relative;
+	left: 10%;
+}
+.fondoazul{
+	background-color: #010338;
+	margin: 0px;
+}
+.p{
+	padding: 50px;
+	padding-right: 70%;
+}
+.buttonstudio{
+	background: #010338;
+	padding-left: 20px;
+	padding-right: 29px;
+	padding: 5px;
+	margin-top: 10px;
+}
+.p2{
+	padding-left: 20%;
+	padding-right: 20%;
+	padding-top: 5%;
+	padding-bottom: 5%; 
+}
+.cosita{
+	width: 10%;
+}
+.buttonclases{
+	background-color: #010338;
+	padding: 12px;
+	width: 200px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.m{
+	position: relative;
+	top: 248px;
+	left: 43%;
+}
+.p3{
+	padding-left: 5%;
+	padding-right: 10%;
+	padding-top: 5%;
+	padding-bottom: 5%;
+	font-size: 15px; 
+}
+/* .fondozapatitos{
+	background-image: url("../img/shoes_1.jpg");
+	background-position:right top;
+	background-repeat:no-repeat;  
+	width: 100%;
+	height: 500px;
+	margin: 0px;
+}
+footer{
+	background-color: #010338;
+	padding: 10px;
+}
+input{
+	height: 30px;
+	width: 400px;
+	padding: 5px;
+	margin: 10px;	
+}
+.contactanos{
+	margin-top: 10%;
+	margin-left: 10%;
+}
+.botonenviar{
+	background-color: #010338; */
